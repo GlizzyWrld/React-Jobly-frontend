@@ -1,0 +1,10 @@
+.btn-login-signup {
+    display:inline-block;
+    padding: 10px 10px;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.btn-login-signup:hover {
+    background-color: bisque;
+}
